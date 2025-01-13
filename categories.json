@@ -1,0 +1,912 @@
+{
+    "x indigo": {
+        "categorie": "stationnement",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "compagnie generale de locationc c tel frzzz cglt": {
+        "categorie": "pret",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "crcam sudmediterranee prelevement pret travaux n fr sh": {
+        "categorie": "pret",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "maaf assurances sa cotisation assurance iard frzzz num ref": {
+        "categorie": "assurance",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "regie service familles cc des as cc des aspres facturation serv familles decembre frfam frfam d": {
+        "categorie": "cantine",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "free telecom free hautdebit frzzz fhd": {
+        "categorie": "abonnement",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "x selarl cabinet a per": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "x dac intermarche poll": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "fnac darty services fdsbrene fdsbrenefd frzzzf fdsbrene": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "x action llupia": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "free mobile fm frzzz fmpmt": {
+        "categorie": "abonnement",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "spb sfr assur frzzz sfr assur": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "x lidl thuir": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "x pharmacie jardi perp": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "x salao llupia": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "x google play apps dub": {
+        "categorie": "abonnement",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "x intermarche poll pol": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "electricite de france selva bertrand numero de client numero de compte mm fredf z simm": {
+        "categorie": "\u00e9lectricit\u00e9",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "rba coleccionables sa fac esa": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "intrets dbiteurs": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "x lenny s ponteilla": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "x gifi thuir": {
+        "categorie": "cadeau",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "x uepprothuir": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "cafpyreneesorientalesuselvamev": {
+        "categorie": "CAF",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "virinstweroversnicolaslddbdacba": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "assucaaeprethabitat": {
+        "categorie": "assurance",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "offrecomptecomposer": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "gmfassurancesprelevementgmfassurancesicsfrzzzmensuvotrerumptrfrzzzptr": {
+        "categorie": "assurance",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "gmfvieprelevementgmfvieicsfrzzzvotrerumpvscfamfrzzzspvcfam": {
+        "categorie": "assurance",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "francetravailv": {
+        "categorie": "salaire",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "oneybanqueaccordgcgccacfebfbddfrclt": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "soleetfilsvirementsalairedevirementsalairedecembrevirementsalairedecembre": {
+        "categorie": "salaire",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "xmercistcyprien": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "webalainraffallimonsieurselvabertrandoumlevirementdepuismabanque": {
+        "categorie": "pret",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "debrenerraffallikelly": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "xuepalimagadisperp": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xmabeldaccanohes": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xgemoperpigna": {
+        "categorie": "cadeau",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "xalsimaperpignan": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "perpignanstassisclh": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xauchanperpignan": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "sysgcperpignan": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "xuepdacalainellul": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xuepegadisegat": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xmcdonaldsprades": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "xlidlegat": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xperpibio": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "virinstweroversanniversairelounaedbcfbbbbbcccc": {
+        "categorie": "cadeau",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "xndjpsaspollestres": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xbiocoopthuir": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xkfcperpignan": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "xgifiperpi": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xjmtperpignan": {
+        "categorie": "chien",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "xintermarchelaverie": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "xbureauvalleeperpig": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "regierecettescnetrouillaspaiementdelagarderiemunicipaleperiscolairebrenerraffallikellyenfantselvafrzzzed": {
+        "categorie": "garderie",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "ECHEANCE": {
+        "categorie": "pret",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "Franchise intrets dbiteurs": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "CRCAM SUD MEDITERRANEE CREDIT AGRICOLE ASSURANCE HABITATION ECHEANCE COTISATION DU CONTRAT PACIFICA PCK FRZZZ": {
+        "categorie": "assurance",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "X MABEL NFC CANOHES": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X MC DONALD S PERPIGNA": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "X SUMUP AU POULET DOR": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X AMORINO CANET": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST WERO de MONSIEUR LOPEZ feebdbaddca": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST WERO vers NICOLAS L les putes afbbecccfcfee": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X DOM DES ARBRES BAGES": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 3
+    },
+    "X PARKINGARAGO AUT": {
+        "categorie": "stationnement",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "DIRECTION GENERALE DES FINANCES MENM IMPOT TF NNFRZZZM FRZZZ EM": {
+        "categorie": "impot",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X L ORCHIDEE THAI PERP": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X MARIE BLACHERE THUIR": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X LEUCATE PHOTO V": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "X HPYINSTANT GAMING D": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X JUMP STORY PERPIGNAN": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X PERPIGNAN BARD H": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X LABO CENTRE FIV PERP": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X FESTIK BILLETERIE TO": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X AMAZON PAYMENTS PAYL": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "X MGPVinted L": {
+        "categorie": "vetement",
+        "recurrence": "Occasionnel",
+        "frequence": 3
+    },
+    "X STEAM PURCHASE SEATT": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X CENTRAL PARKING PERP": {
+        "categorie": "stationnement",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X CLINIQUE ST PIER PER": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST WERO vers JEROME L pizzas dafaabeacaefaca": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST WERO vers PortAventura bacfafbcbaf": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST WERO vers PortAventura annifDaram adbaabcbcbbdc": {
+        "categorie": "cadeau",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X LABORATOIRE SVR": {
+        "categorie": "cadeau",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X BOARDGAMEARENA": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "SAUR Facture SAUR S FRZZZ SAPR": {
+        "categorie": "eau",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "X ROND VERT PERPIGNAN": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X SUMUP ASSOCIATION G": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 3
+    },
+    "X BetM FRANCE PERPIGNA": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X SORTILEGES PERPIGNAN": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "X BYE PARULA MONTREAL": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X LEROY MERLIN PERPIGN": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X DR LAFONT LIONEL PER": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X CARTERCASH PERPIGNA": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "X BISTRO REGENT PERPIG": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X CATALOGNE CARBURANT": {
+        "categorie": "carburant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X JARDI PERPIGNAN PARI": {
+        "categorie": "cadeau",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X ANATOLIE KEBAB PERPI": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST WERO de MONSIEUR LOPEZ cfdcbbaafbd": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST WERO vers NICOLAS L bccbfbbcbbddff": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST de M BRENER JACKY jack": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X TIGER STORES FRA PER": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X PITAYA FRANCE": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X MAMIE BIGOUDE PER": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X Google Payment IE LT": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "Envoi de chquier en pli simple": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X C Mon Etiquette Bord": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X AMAZON EU SARL PAYLI": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X PHARMACIE FARINES TR": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "SOLE ET FILS VIREMENTSALAIREAO VIREMENTSALAIREAOUT VIREMENTSALAIREAOUT": {
+        "categorie": "salaire",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "CENTRE PAJEMPLOI PRELEVEMENT PAJEMPLOI Y PAWA FRZZZ RBBPAJEAPVT": {
+        "categorie": "garderie",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X LA CREME DE LA PERPI": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X RELAIS DES ALBERES P": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X DECATHLON PERPIG": {
+        "categorie": "vetement",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "VIR INST de MR BERTRAND SELVA VIREMENT DE MR BERTRAND SELVA VIREMENT DE MR BERTRAND SELVA": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X IPORTCAMARGUE LE": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X PerpignanClaira": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X CARREFOUR CLAIRA": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X CULTURA RIVESALTES": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "ELECTRICITE DE FRANCE SELVA BERTRAND EDF VRS REMBOURSEMENT COMPTE CREDITEUR EDF VRS": {
+        "categorie": "\u00e9lectricit\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X PARQUING EMPURIES L": {
+        "categorie": "stationnement",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X ASF A ESPAGNE VEDE": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X ASF LE BOULOU O VE": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X BS SANA BANYULS": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "X LE CANTERRANE TROUIL": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X ATELIER PIA": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X SUMUP EARL LORCHID": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X BS TENNIS BANYUL": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X MENJA AQUI ARGELES S": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X LE PRESSOIR BANYULS": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X SUMUP DES RIRES ET": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X MAC DONALDS LATOUR": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X ARBRES BLANCS BAGES": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X BONNE VACANCES VIDAU": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X BONNE VACANCE VIDAUB": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X STARBUCKS PERPIGNAN": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X INTERMARCHE MONTESCO": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X CARREFOUR CITY PERPI": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "SFR SFR mobile Prlvt SEPA HGV GP FRZZZ HGV": {
+        "categorie": "abonnement",
+        "recurrence": "Fixe",
+        "frequence": 2
+    },
+    "X OPTIC CARPEDIEM POLL": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X Disney PLUS Hoofddor": {
+        "categorie": "abonnement",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "X LE FOURNIL DE S PERP": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X Action Paris": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X VETERINAIRES THUIR": {
+        "categorie": "chien",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X PETROLEC SUD MONT DE": {
+        "categorie": "carburant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X ASF LE PERTHUS VEDEN": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X LECLERC SODICAT PERP": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X BK CABRERA CAR": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X CENTRAL CAFE BAR BAR": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X PAYPAL SHEIN COM LU": {
+        "categorie": "vetement",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X Jow SaintDenis": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X LIDL PERPIGNAN": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 2
+    },
+    "X Vinted Vilnius": {
+        "categorie": "vetement",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "MSA GRAND SUD VIR NORMES DU PM CJJDMOKHHGCFJ VIR NORMES DU": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X DIAAM PIA": {
+        "categorie": "stationnement",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "WEB BRENER RAFFALLI KELL Restes Restes Paneaux photovoltaiques": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X dr MOIZIARD CAMILLE": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X INTERMARCHE CABINE C": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X NICOLAS SAUVAGET ELN": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "SFR FIXE ADSL SFR FIXE ADSL AKYSBUV GP FRZZZ": {
+        "categorie": "abonnement",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "PONTEILLA H": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X LA SARDEGNA PERPIGNA": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "PS PERPIGNAN": {
+        "categorie": "autre",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X LADY BOY POLLESTRES": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X HELLOASSO BILLETTER": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "WEB sandy brener Cadeau fete des Cadeau fete des meres": {
+        "categorie": "cadeau",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X THUIR H": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X NETFLIXCOM": {
+        "categorie": "abonnement",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "X LE PAIN DU JOUR THUI": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X SNES CINEMA CASTILL": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 2
+    },
+    "X GALATA KEBAB PERPIGN": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X LA BOULANGERIE LLUPI": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X creperie CANOHES": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "SFR SFR mobile Prlvt SEPA DEKBI GP FRZZZ DEKBI": {
+        "categorie": "abonnement",
+        "recurrence": "Fixe",
+        "frequence": 1
+    },
+    "X MC DONALDS ARGELES": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X NEW SCHOOL TACOS PER": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "CARTE X LIDL": {
+        "categorie": "alimentaire",
+        "recurrence": "R\u00e9current",
+        "frequence": 1
+    },
+    "X LE PETIT MOKA PERPIG": {
+        "categorie": "restaurant",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X Nintendo CA": {
+        "categorie": "loisir",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    },
+    "X PAYPAL EASYPARAPHA": {
+        "categorie": "sant\u00e9",
+        "recurrence": "Occasionnel",
+        "frequence": 1
+    }
+}

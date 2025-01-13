@@ -1,0 +1,8 @@
+- au lancement du programme, proposer un menu avec des options :
+	corriger les doublons :  après avoir proposé de choisir un des deux doublons la modif ne s'enregistre pas
+	prendre en compte le solde au moment du relevé :  donnée différente des autres
+	pouvoir recherché un type de dépense ou revenu dans les données pour en faire la somme
+	peaufiner l'attribution automatique des catégories
+	donner un aperçu des données nettoyées et proposer à l'utilisateur de modifier s'il le souhaite
+	pourvoir cumuler plusieurs fichiers et faire des synthèses mensuelles
+
